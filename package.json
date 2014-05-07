@@ -1,6 +1,6 @@
 {
   "name": "language-torquescript",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "TorqueScript language support in Atom",
   "license": "MIT",
   "repository": {
