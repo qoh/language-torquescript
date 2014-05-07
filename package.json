@@ -1,0 +1,16 @@
+{
+  "name": "language-torquescript",
+  "version": "0.1.0",
+  "description": "TorqueScript language support in Atom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/portify/language-torquescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/portify/language-torquescript/issues"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
