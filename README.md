@@ -1,6 +1,6 @@
 # TorqueScript language support in Atom
 
-Adds syntax highlighting and snippets to Python files in Atom.
+Adds syntax highlighting and snippets to TorqueScript files in Atom.
 
 Originally [converted](http://atom.io/docs/latest-converting-a-text-mate-bundle) from the [TorqueScript TextMate bundle](http://mysterycoconut.com/tsmate/) and improved upon.
 
