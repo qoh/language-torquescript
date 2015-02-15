@@ -1,5 +1,5 @@
 '.source.torquescript':
   'editor':
+    'commentStart': '// '
     'foldStartPattern': '\\{\\s*$'
     'foldEndPattern': '^\\s*\\}'
-    'commentStart': '// '

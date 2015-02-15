@@ -1,23 +1,15 @@
 'scopeName': 'source.torquescript'
-'name': 'TorqueScript'
 'fileTypes': [
   'cs'
   'gui'
   'mis'
 ]
-'foldingStartMarker': '\\{\\s*$'
-'foldingStopMarker': '^\\s*\\}'
+'name': 'TorqueScript'
 'patterns': [
   {
     'comment': 'Single line comment'
     'match': '\\/\\/.*'
     'name': 'comment.line.double-slash.torque'
-  }
-  {
-    'begin': '\\/\\*'
-    'comment': 'Multiple line comment'
-    'end': '\\*\\/'
-    'name': 'comment.block.torque'
   }
   {
     'comment': 'Global variable'
